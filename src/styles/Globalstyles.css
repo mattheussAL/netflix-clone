@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+
+  margin: 0;
+
+  color: #FFF;
+  background: #111;
+}
+
+.lists {
+  margin-top: -150px;
+
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #d81f26;
+  border-radius: 80px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ac1419;
+}
+
+/* footer a {
+  position: relative;
+  padding: 0 20px;
+
+}
+
+footer p {
+  margin-top: 20px;
+}
+
+footer p span {
+  color: #d81f26;
+  font-weight: bold;
+}
+
+.github {
+  color: #fff;
+}
+
+.linkedin {
+  color: #0e76a8;
+}
+
+.github:hover {
+  color: #bebebe;
+}
+
+.linkedin:hover {
+  color: #39aadf;
+} */
+  
